@@ -1,0 +1,26 @@
+body {
+    background-color: orange;
+    color: white;
+}
+h1 {
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
+h2 {
+    color: darkred;
+}
+p {
+    color: white;
+}
+a {
+    color: white;
+}
+div {
+    background-color: darkred;
+    padding: 10px;
+}
+img {
+    width: 100%;
+    height: auto;
+}
